@@ -7,11 +7,11 @@ const StyledSearchContainer = styled.div`
 `
 
 const StyledSearch = styled.input`
-
+  outline: none;
 `;
 
 const StyledCategory = styled.span`
-
+  font-weight: bold;
 `;
 
 interface ISearchProps {

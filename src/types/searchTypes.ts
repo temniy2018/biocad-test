@@ -1,0 +1,1 @@
+export type TCategories = 'author' | 'title';
